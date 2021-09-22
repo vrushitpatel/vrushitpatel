@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Vrushit 👋
 
-[![Website](https://img.shields.io/website?label=techvrushit.com&style=for-the-badge&url=https%3A%2F%2Ftechvrushit.com)](https://techvrushit.com/)
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://techvrushit.com/)
 
 <!-- ## 🙋‍♀️  About Me -->
 
@@ -28,15 +28,26 @@ Here are some ideas to get you started:
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
     <img src="https://img.icons8.com/color/48/000000/python.png"/>
+    <img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png"/>
+    <img src="https://img.icons8.com/color/50/000000/git.png"/>
     <br/>
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
     <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+    <img src="https://img.icons8.com/color/48/000000/sass.png"/>
     <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
-    <img src="https://img.icons8.com/color/48/000000/django.png"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/jquery.png"/>
+    <img src="https://img.icons8.com/offices/50/000000/php-logo.png"/>
     <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/>
     <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+    <img src="https://img.icons8.com/color/48/000000/django.png"/>
     <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-    <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png">
+    <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
+    <br/>
+    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+    <img src="https://img.icons8.com/color/48/000000/pycharm.png"/>
+    <img src="https://img.icons8.com/material-outlined/48/000000/github.png"/>
+    <img src="https://img.icons8.com/fluency/48/000000/arduino.png"/>
 </p>
 
 <br/>
