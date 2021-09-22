@@ -20,43 +20,56 @@ Here are some ideas to get you started:
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://techvrushit.com/)
 
-## I'm a Husband, Father, Developer, and Teacher!!
-
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-
-<br />
-<br />
+<!-- ## 🙋‍♀️  About Me -->
 
 
-[website]: https://techvrushit.com/
-[linkedin]: https://linkedin.com/in/codeSTACKr
+## 🚀 Languages and Tools:
+
+<p align="left"> 
+    <img src="https://img.icons8.com/color/48/000000/python.png"/>
+    <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+    <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+    <img src="https://img.icons8.com/color/48/000000/html.png"/>
+    <img src="https://img.icons8.com/color/48/000000/css.png"/>
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+    <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/>
+    <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+    <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png" alt="express" width="40" height="40"/>
+</p>
+
+<br/>
+
+<!-- <p align="center">
+    <a href=https://github-readme-streak-stats.herokuapp.com/?user=Harshee-Pitroda&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Harshee Pitroda's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshee-Pitroda&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/Harshee-Pitroda/github-readme-stats"><img alt="Harshee Pitroda's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Harshee-Pitroda&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Harshee-Pitroda/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshee-Pitroda&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Please Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Harshee-Pitroda&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/harshee-pitroda-790778212/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/harsheepitrodaa"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+</p> -->
