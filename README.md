@@ -36,29 +36,30 @@ Here are some ideas to get you started:
     <img src="https://img.icons8.com/color/48/000000/sass.png"/>
     <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
     <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-    <img src="https://img.icons8.com/ios-filled/50/000000/jquery.png"/>
     <img src="https://img.icons8.com/offices/50/000000/php-logo.png"/>
     <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/>
     <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
     <img src="https://img.icons8.com/color/48/000000/django.png"/>
     <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-    <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
     <br/>
     <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
     <img src="https://img.icons8.com/color/48/000000/pycharm.png"/>
     <img src="https://img.icons8.com/material-outlined/48/000000/github.png"/>
     <img src="https://img.icons8.com/fluency/48/000000/arduino.png"/>
+    <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
+    <img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro--v1.png"/>
+    <img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/>
 </p>
 
 <br/>
 
-<!-- <p align="center">
-    <a href=https://github-readme-streak-stats.herokuapp.com/?user=Harshee-Pitroda&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Harshee Pitroda's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshee-Pitroda&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+## <img src="https://img.icons8.com/ios-glyphs/30/000000/combo-chart--v2.png"/> Github Stats
+
+<p align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vrushit7506&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </p>
 
-## 📊 My Github Stats
+<!--
 
   <br/>
     <a href="https://github.com/Harshee-Pitroda/github-readme-stats"><img alt="Harshee Pitroda's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Harshee-Pitroda&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
