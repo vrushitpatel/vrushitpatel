@@ -21,7 +21,11 @@ Here are some ideas to get you started:
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=Vrushit7506) -->
 
-<img src='https://github.com/Vrushit7506/Vrushit7506/blob/main/Source%20code.gif' align='left'>
+<img width="400px" style="margin-right: 40px" src='https://github.com/Vrushit7506/Vrushit7506/blob/main/Source%20code.gif' align='left'>
+
+<br/>
+<br/>
+<br/>
 
 - 🎓 I'm [Vrushit Patel](https://techvrushit.com/) currently a Fourth Year CSE student at <a href="https://engineering.nmims.edu/">@MPSTME </a>
 - 🔭 I’m currently working on **Django and React**
@@ -35,6 +39,9 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br/>
+<br/>
 
 <br/>
 <br/>
