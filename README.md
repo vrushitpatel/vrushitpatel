@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **Django and React**
 - 🤝 I’m looking to collaborate on **Django**
 - 📫 How to reach me: vrushit7506@gmail.com.
-- 💡 Occasionaly I do participate in Hackathons
+- 💡  Occasionaly I do participate in Hackathons
 - 💬 Ask me about anything, I am happy to help
 - 📝 Checkout my [Resume](https://github.com/Vrushit7506/Vrushit7506/blob/master/resume.pdf).
 
