@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+<br/>
+
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
@@ -63,6 +65,10 @@ Here are some ideas to get you started:
 </p>
 
 ## <img src="https://img.icons8.com/ios-glyphs/30/000000/combo-chart--v2.png"/> Github Stats
+
+<p align="center">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vrushit7506Vrushit7506&show_icons=true&locale=en&layout=compact" alt="khushboogoel01" />
+</p>
 
 <p align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vrushit7506&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
