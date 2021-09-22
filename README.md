@@ -26,17 +26,17 @@ Here are some ideas to get you started:
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <img src="https://img.icons8.com/color/48/000000/python.png"/>
     <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-    <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-    <img src="https://img.icons8.com/color/48/000000/html.png"/>
-    <img src="https://img.icons8.com/color/48/000000/css.png"/>
+    <img src="https://img.icons8.com/color/48/000000/python.png"/>
+    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
     <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
     <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
     <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/>
     <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+    <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
     <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
     <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png" alt="express" width="40" height="40"/>
