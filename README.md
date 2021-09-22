@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 ## <img src="https://img.icons8.com/ios-glyphs/30/000000/combo-chart--v2.png"/> Github Stats
 
 <p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vrushit7506Vrushit7506&show_icons=true&locale=en&layout=compact" alt="khushboogoel01" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vrushit7506&show_icons=true&locale=en&layout=compact" alt="khushboogoel01" />
 </p>
 
 <p align="center">
