@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: vrushit7506@gmail.com.
 - 💡  Occasionaly I do participate in Hackathons
 - 💬 Ask me about anything, I am happy to help
-- 📝 Checkout my [Resume](https://github.com/Vrushit7506/Vrushit7506/blob/master/resume.pdf).
+- 📝 Checkout my [Resume](https://github.com/Vrushit7506/Vrushit7506/blob/main/Resume.pdf).
 
 ### Connect with me:
 
