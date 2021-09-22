@@ -1,8 +1,27 @@
+<!--
+### Hi there 👋
+
+**Vrushit7506/Vrushit7506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 ### Hello World, I'm a Vrushit 👋
 
 [![Website](https://img.shields.io/website?label=techvrushit.com&style=for-the-badge&url=https://techvrushit.com/)](https://techvrushit.com/)
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=Vrushit7506) -->
+
+<img src='https://github.com/Vrushit7506/Vrushit7506/blob/main/Source%20code.gif' align='left'>
 
 - 🎓 I'm [Vrushit Patel](https://techvrushit.com/) currently a Fourth Year CSE student at <a href="https://engineering.nmims.edu/">@MPSTME </a>
 - 🔭 I’m currently working on **Django and React**
@@ -11,7 +30,6 @@
 - 💡 Occasionaly I do participate in Hackathons
 - 💬 Ask me about anything, I am happy to help
 - 📝 Checkout my [Resume](https://github.com/Vrushit7506/Vrushit7506/blob/master/resume.pdf).
-
 
 ### Connect with me:
 
