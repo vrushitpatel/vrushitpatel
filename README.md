@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Vrushit 👋
 
-[![Website](https://img.shields.io/website?label=techvrushit.com&style=for-the-badge&url=https%3A%2F%techvrushit.com)](https://techvrushit.com/)
+[![Website](https://img.shields.io/website?label=techvrushit.com&style=for-the-badge&url=https://techvrushit.com/)](https://techvrushit.com/)
 
 ## I'm a !!
 
@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 ## <img src="https://img.icons8.com/ios-glyphs/30/000000/combo-chart--v2.png"/> Github Stats
 
 <p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vrushit7506&show_icons=true&locale=en&layout=compact" alt="khushboogoel01" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vrushit7506&show_icons=true&locale=en&layout=compact" alt="Vrushit7506" />
 </p>
 
 <p align="center">
