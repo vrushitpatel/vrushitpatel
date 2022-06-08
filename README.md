@@ -87,4 +87,4 @@ Here are some ideas to get you started:
 </p>
 
 [website]: https://techvrushit.com/
-[linkedin]: www.linkedin.com/in/vrushit-patel
+[linkedin]: https://www.linkedin.com/in/vrushit-patel/
