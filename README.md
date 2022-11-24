@@ -1,7 +1,7 @@
 <!--
 ### Hi there 👋
 
-**Vrushit7506/Vrushit7506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**vrushitpatel/vrushitpatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,23 +17,23 @@ Here are some ideas to get you started:
 
 ### Hello World, I'm a Vrushit 👋
 
-[![Website](https://img.shields.io/website?label=techvrushit.com&style=for-the-badge&url=https://techvrushit.com/)](https://techvrushit.com/)
+[![Website](https://img.shields.io/website?label=techvrushit.com&style=for-the-badge&url=https://vrushitpatel.github.io/Home/)](https://vrushitpatel.github.io/Home/)
 
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=Vrushit7506) -->
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=vrushitpatel) -->
 
-<img width="400px" style="margin-right: 40px" src='https://github.com/Vrushit7506/Vrushit7506/blob/main/Source%20code.gif' align='left'>
+<img width="400px" style="margin-right: 40px" src='https://github.com/vrushitpatel/vrushitpatel/blob/main/Source%20code.gif' align='left'>
 
 <br/>
 <br/>
 <br/>
 
-- 🎓 I'm [Vrushit Patel](https://techvrushit.com/) currently a Fourth Year CSE student at <a href="https://engineering.nmims.edu/">@MPSTME </a>
+- 🎓 I'm [Vrushit Patel](https://vrushitpatel.github.io/Home/) currently a Fourth Year CSE student at <a href="https://engineering.nmims.edu/">@MPSTME </a>
 - 🔭 I’m currently working on **Django and React**
 - 🤝 I’m looking to collaborate on **Django**
 - 📫 How to reach me: vrushit7506@gmail.com.
 - 💡  Occasionaly I do participate in Hackathons
 - 💬 Ask me about anything, I am happy to help
-- 📝 Checkout my [Resume](https://github.com/Vrushit7506/Vrushit7506/blob/main/Resume.pdf).
+- 📝 Checkout my [Resume](https://github.com/vrushitpatel/vrushitpatel/blob/main/Resume.pdf).
 
 ### Connect with me:
 
@@ -79,12 +79,12 @@ Here are some ideas to get you started:
 ## <img src="https://img.icons8.com/ios-glyphs/30/000000/combo-chart--v2.png"/> Github Stats
 
 <p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vrushit7506&show_icons=true&locale=en&layout=compact" alt="khushboogoel01" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vrushitpatel&show_icons=true&locale=en&layout=compact" alt="khushboogoel01" />
 </p>
 
 <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vrushit7506&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vrushitpatel&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </p>
 
-[website]: https://techvrushit.com/
+[website]: https://vrushitpatel.github.io/Home/
 [linkedin]: https://www.linkedin.com/in/vrushit-patel/
