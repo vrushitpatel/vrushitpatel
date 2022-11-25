@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <br/>
 
 - 💼 I'm [Vrushit Patel](https://vrushitpatel.github.io/) an Associate Consultant at <a href="https://www.vmware.com/">VMware Inc.</a>
-- 🎓 I have completed my B.Tech. in Computer Engineering from <a href="https://engineering.nmims.edu/">@MPSTME </a>
+- 🎓 I have completed my B.Tech. in Computer Engineering from <a href="https://engineering.nmims.edu/">MPSTME</a>
 - 🔭 I’m currently working on **JavaScript And C++**
 - 🤝 I’m looking to collaborate on **Django**
 - 📫 How to reach me: vrushit7506@gmail.com.
