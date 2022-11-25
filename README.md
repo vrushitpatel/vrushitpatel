@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hello World, I'm a Vrushit 👋
 
-[![Website](https://img.shields.io/website?label=techvrushit.com&style=for-the-badge&url=https://vrushitpatel.github.io/Home/)](https://vrushitpatel.github.io/Home/)
+[![Website](https://img.shields.io/website?label=techvrushit.com&style=for-the-badge&url=https://vrushitpatel.github.io/)](https://vrushitpatel.github.io/)
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=vrushitpatel) -->
 
@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-- 🎓 I'm [Vrushit Patel](https://vrushitpatel.github.io/Home/) currently a Fourth Year CSE student at <a href="https://engineering.nmims.edu/">@MPSTME </a>
+- 💼 I'm [Vrushit Patel](https://vrushitpatel.github.io/) an Associate Consultant at VMware Inc. working with Cloud Automation Team
+- 🎓 I have completed my B.Tech. in Computer Engineering from <a href="https://engineering.nmims.edu/">@MPSTME </a>
 - 🔭 I’m currently working on **Django and React**
 - 🤝 I’m looking to collaborate on **Django**
 - 📫 How to reach me: vrushit7506@gmail.com.
@@ -86,5 +87,5 @@ Here are some ideas to get you started:
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vrushitpatel&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </p>
 
-[website]: https://vrushitpatel.github.io/Home/
+[website]: https://vrushitpatel.github.io/
 [linkedin]: https://www.linkedin.com/in/vrushit-patel/
