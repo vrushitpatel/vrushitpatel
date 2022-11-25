@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-- 💼 I'm [Vrushit Patel](https://vrushitpatel.github.io/) an Associate Consultant at VMware Inc. working with Cloud Automation Team
+- 💼 I'm [Vrushit Patel](https://vrushitpatel.github.io/) an Associate Consultant at <a href="https://www.vmware.com/">VMware Inc.</a>
 - 🎓 I have completed my B.Tech. in Computer Engineering from <a href="https://engineering.nmims.edu/">@MPSTME </a>
-- 🔭 I’m currently working on **Django and React**
+- 🔭 I’m currently working on **JavaScript And C++**
 - 🤝 I’m looking to collaborate on **Django**
 - 📫 How to reach me: vrushit7506@gmail.com.
 - 💡  Occasionaly I do participate in Hackathons
@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 ## <img src="https://img.icons8.com/ios-glyphs/30/000000/combo-chart--v2.png"/> Github Stats
 
 <p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vrushitpatel&show_icons=true&locale=en&layout=compact" alt="khushboogoel01" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vrushitpatel&show_icons=true&locale=en&layout=compact" alt="vrushitpatel" />
 </p>
 
 <p align="center">
