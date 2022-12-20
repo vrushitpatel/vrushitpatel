@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=vrushitpatel) -->
 
-<img width="400px" style="margin-right: 40px" src='https://github.com/vrushitpatel/vrushitpatel/blob/main/Vrushit%20Gif.gif' align='left'>
+<img width="400px" style="margin-right: 40px" src='https://giphy.com/embed/UshjW34YnLysr0svGj' align='left'>
 
 <br/>
 <br/>
