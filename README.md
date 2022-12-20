@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hello World, I'm a Vrushit 👋
 
-[![Website](https://img.shields.io/website?label=techvrushit.com&style=for-the-badge&url=https://vrushitpatel.github.io/)](https://vrushitpatel.github.io/)
+[![Website](https://img.shields.io/website?label=vrushitpatel.com&style=for-the-badge&url=https://vrushitpatel.github.io/)](https://vrushitpatel.github.io/)
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=vrushitpatel) -->
 
