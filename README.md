@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=vrushitpatel) -->
 
-<img width="400px" style="margin-right: 40px" src='https://github.com/vrushitpatel/vrushitpatel/blob/main/Source%20code.gif' align='left'>
+<img width="400px" style="margin-right: 40px" src='https://github.com/vrushitpatel/vrushitpatel/blob/main/Vrushit%20Gif.gif' align='left'>
 
 <br/>
 <br/>
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="" width="22px" src="https://github.com/vrushitpatel/vrushitpatel/blob/main/icons8-internet.gif" />][website]
 [<img align="left" alt="Vrushit Patel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Vrushit Patel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <br/>
